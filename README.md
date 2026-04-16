@@ -4,8 +4,6 @@ Ascii Era is a lightweight, responsive Next.js application that captures your li
 
 Built with performance in mind via the `HTML5 Canvas` API and `requestAnimationFrame`, the app guarantees buttery smooth render speeds with zero reliance on backend servers.
 
-![App Snapshot preview](https://upload.wikimedia.org/wikipedia/commons/9/91/Matrix-The_Matrix_Code.jpg) *(Matrix reference style)*
-
 ## Features
 
 - **Live Generation**: Streams camera via `getUserMedia` directly to an off-screen HTML5 video and parses it locally without making network calls.
